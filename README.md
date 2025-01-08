@@ -1,4 +1,4 @@
-# challenge-conversor
+# vuejs currency converter
 
 ## Project setup
 ```
